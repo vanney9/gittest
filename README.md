@@ -1,2 +1,2 @@
 # gittest
-readme
+readme remote fix
