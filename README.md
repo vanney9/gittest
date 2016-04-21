@@ -1,2 +1,3 @@
 # gittest
-readme remote fix
+readmelocal
+local fix
